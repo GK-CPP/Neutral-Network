@@ -1,6 +1,6 @@
 ## Artificial-Neutral-Network
 * [CNN](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Convolutional%20Neural%20Network/Convolutional%20Neural%20Network%20.ipynb)
-*[CNN_PDF](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Convolutional%20Neural%20Network/Convolutional%20Neural%20Network(CNN).pdf)
+* [CNN_PDF](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Convolutional%20Neural%20Network/Convolutional%20Neural%20Network(CNN).pdf)
 * [ADALINE with IRIS data](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/ADALINE%20with%20IRIS%20data.ipynb)
 * [Fully Connected Layer](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Fully%20Connected%20Layer.ipynb)
 * [Hopfield Network](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Hopfield%20Network.ipynb)
