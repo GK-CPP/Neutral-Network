@@ -1,6 +1,6 @@
 ## Artificial-Neutral-Network
 * [CNN](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Convolutional%20Neural%20Network/Convolutional%20Neural%20Network%20.ipynb)
-*[CNN_PDF](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Convolutional%20Neural%20Network/Convolutional%20Neural%20Network(CNN).pdf)
+* [CNN_PDF](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Convolutional%20Neural%20Network/Convolutional%20Neural%20Network(CNN).pdf)
 * [ADALINE with IRIS data](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/ADALINE%20with%20IRIS%20data.ipynb)
 * [Fully Connected Layer](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Fully%20Connected%20Layer.ipynb)
 * [Hopfield Network](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Hopfield%20Network.ipynb)
@@ -9,9 +9,9 @@
 * [Radial Basis Function with K-Mean Clustering](https://github.com/GK-CPP/Artificial-Neutral-Network/blob/master/Class%20Work/Radial%20Basis%20Function%20with%20K-Mean%20Clustering.ipynb)
 
 
-============================================== </br>
-Name:     Gulam Kibria Chowdhury</br>
-Study:      CSE, NEUB</br>
-Address:  Sylhet, Bangladesh</br>
-mail: gkpalash101@gmail.com</br>
-============================================== </br>
+=============================================== <br> 
+Gulam Kibria Chowdhury <br>
+CSE Graduate || Competitive Programmer <br>
+Sylhet, Bangladesh <br>
+Gmail: gkchowdhury101@gmail.com <br>
+=============================================== <br>
